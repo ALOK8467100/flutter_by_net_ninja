@@ -1,3 +1,14 @@
+/*
+what is Flutter?
+
+Mobile UI framework for creating native apps for ios & Android
+
+Single code base means we only have to write our app once for multiple devices.
+
+Why use flutter
+
+
+*/
 import 'package:flutter/material.dart';
 
 void main() {
@@ -6,7 +17,6 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-// here it done welll
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {

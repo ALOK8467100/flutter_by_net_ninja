@@ -1,16 +1,16 @@
 # flutter_by_net_ninja
 
-A new Flutter project.
+A new Flutter tutorial with project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+what is Flutter?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Mobile UI framework for creating native apps for ios & Android
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Single code base means we only have to write our app once for multiple devices.
+
+Why use flutter
+
