@@ -20,3 +20,12 @@ Uses Dart, which is a really easy language to pick up.
 Uses material design out of the box.
 
 
+You Should know...
+
+A basic to good undersatnd of programming principles
+
+-Classes
+-Functions & methods
+-Variables
+-Asynchronous code
+
