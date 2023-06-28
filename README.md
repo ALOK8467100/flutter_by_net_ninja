@@ -12,5 +12,11 @@ Mobile UI framework for creating native apps for ios & Android
 
 Single code base means we only have to write our app once for multiple devices.
 
-Why use flutter
+Why use flutter?
+
+Only one code base.
+Very smooth and quick experience when running apps.
+Uses Dart, which is a really easy language to pick up.
+Uses material design out of the box.
+
 
